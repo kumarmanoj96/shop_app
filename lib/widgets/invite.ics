@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20200302T063000Z
+DTEND:20200302T073000Z
+DTSTAMP:20200225T064557Z
+ORGANIZER;CN=soumya.sengupta@paypermint.in:mailto:soumya.sengupta@paypermin
+ t.in
+UID:042hkgbb7f7327baafj3qcfgl3@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=manoj.kumar@paypermint.in;X-NUM-GUESTS=0:mailto:manoj.kumar@payperm
+ int.in
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=ashani.ray@paypermint.in;X-NUM-GUESTS=0:mailto:ashani.ray@paypermin
+ t.in
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=soumya.sengupta@paypermint.in;X-NUM-GUESTS=0:mailto:soumya.sengupta@pay
+ permint.in
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=nirmalya.chakraborty@payabbhi.com;X-NUM-GUESTS=0:mailto:nirmalya.ch
+ akraborty@payabbhi.com
+X-MICROSOFT-CDO-OWNERAPPTID:-1633533148
+CREATED:20200225T064555Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nThis event has a video call.\nJoin: https://meet.google.com/dat-mfyr-
+ nth\n+1 240-986-2418 PIN: 692189278#\nView more phone numbers: https://tel.
+ meet/dat-mfyr-nth?pin=7918187569008&hs=7\n\nView your event at https://www.
+ google.com/calendar/event?action=VIEW&eid=MDQyaGtnYmI3ZjczMjdiYWFmajNxY2Znb
+ DMgbWFub2oua3VtYXJAcGF5cGVybWludC5pbg&tok=Mjkjc291bXlhLnNlbmd1cHRhQHBheXBlc
+ m1pbnQuaW4zNWI4NDVjMmE0ZjliMGE4YWM4N2U4ZTYyYWUzZDVkNWQ2NWM4ZTA3&ctz=Asia%2F
+ Kolkata&hl=en&es=1.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20200225T064555Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Discussion of YBL Asynchronous Flow
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
